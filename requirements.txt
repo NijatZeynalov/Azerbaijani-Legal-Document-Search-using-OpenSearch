@@ -1,0 +1,4 @@
+opensearch-py==2.1.1
+PyPDF2==3.0.1
+tqdm==4.64.1
+sentence_transformers==2.2.2
